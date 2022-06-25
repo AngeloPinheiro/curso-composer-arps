@@ -38,5 +38,9 @@
         "post-autoload-dump": [
             "Alura\\BuscadorCursos\\Buscador::churras"
         ]
-    }
+    },
+    "scripts-descriptions": {
+        "check": "Roda o CodeSniffer no projeto: cs e cbf"
+    },
+    "license": "MIT"
 }
